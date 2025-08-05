@@ -13,7 +13,7 @@ Este repositório tem como objetivo compartilhar e documentar o conhecimento adq
 - [Questão 32](Unidade_II/questao_32/)
 
 ### 📙 Terceira Lista de Exercícios
-- [Questão 37](lista3/questao21/)
-- [Questão 49](lista3/questao32/)
+- [Questão 37](Unidade_III/questao_37/)
+- [Questão 49](Unidade_III/questao_49/)
 
 ---
