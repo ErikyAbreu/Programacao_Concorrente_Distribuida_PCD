@@ -9,8 +9,8 @@ Este repositório tem como objetivo compartilhar e documentar o conhecimento adq
 - [Questão 12](Unidade_I/)
 
 ### 📗 Segunda Lista de Exercícios
-- [Questão 21](lista2/questao21/)
-- [Questão 32](lista2/questao32/)
+- [Questão 21](Unidade_II/questao_21/)
+- [Questão 32](Unidade_II/questao_32/)
 
 ### 📙 Terceira Lista de Exercícios
 - [Questão 37](lista3/questao21/)
